@@ -37,7 +37,7 @@ Dependencias para el uso de MECHATRONICS PARTS para FreeCAD
 **Software libre, ¡sí!**
 
 Visit [BERSERK.DESIGN]
-![drawing](https://media.licdn.com/dms/image/C560BAQEXZmvS-bai1w/company-logo_200_200/0?e=2159024400&v=beta&t=Es5vOigCKAtdk8s82fdOE8WkOtptGy1TYLPwHUZnqLo)
+![drawing](https://media.licdn.com/dms/image/C560BAQEXZmvS-bai1w/company-logo_200_200/0?e=2159024400&v=beta&t=Es5vOigCKAtdk8s82fdOE8WkOtptGy1TYLPwHUZnqLo)  
   
 
 [BERSERK.DESIGN]: <http://berserk.design>
