@@ -4,7 +4,7 @@ MECHATRONICS PARTS is a open library of technical specifications
 
 ---
 
-> Inspired by BOLTS for FreeCAD
+> Inspired by BOLTS for FreeCAD  
 > Notes: Development in process. Currently only work is being done on the designs of the pieces
 
 # Use 
@@ -21,7 +21,7 @@ Dependencies for use MECHATRONICS PARTS for FreeCAD
 
 ---
 
-> Inspirado en BOLTS para FreeCAD 
+> Inspirado en BOLTS para FreeCAD   
 > Notas: Desarrollo en proceso. Actualmente solo se está trabajando en los diseños de las piezas
 
 # Uso  
