@@ -13,11 +13,24 @@ You should check out the documentation. on the webpage for more informations on 
 Dependencies for use MECHATRONICS PARTS for FreeCAD
 
 + FreeCAD (http://freecadweb.org/) 
-+ python 2.6 or 2.7 
-+ pyyaml (http://pyyaml.org/) 
-+ importlib (https://pypi.python.org/pypi/importlib/1.0.2) (only for python 2.6)
+
 
 **Free Software, Hell Yeah!**
+
+---
+
+> Inspiré par BOLTS pour FreeCAD
+> Notes: Développement en cours. Actuellement, seuls les travaux sont réalisés sur les dessins des pièces
+
+# Utiliser
+Vous devez vérifier la documentation. sur le site Web pour plus d'informations sur l'obtention et l'utilisation de PIECES MECHATRONIQUES.
+
+Dépendances pour l'utilisation de MECHATRONICS PARTS pour FreeCAD
+
++ FreeCAD (http://freecadweb.org/)
+
+
+** Logiciel gratuit, oui! **
 
 ---
 
@@ -30,9 +43,7 @@ Debe verificar la documentación. en la página web para obtener más informaci�
 Dependencias para el uso de MECHATRONICS PARTS para FreeCAD
 
 + FreeCAD (http://freecadweb.org/)
-+ python 2.6 o 2.7
-+ pyyaml (http://pyyaml.org/)
-+ importlib (https://pypi.python.org/pypi/importlib/1.0.2) (solo para python 2.6)
+
 
 **Software libre, ¡sí!**
 
