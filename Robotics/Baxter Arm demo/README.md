@@ -5,3 +5,10 @@ It has two 7-DOF arms that use elastic actuators in series and have a maximum pa
 
 This is a solid model of the exterior design of one of Baxter's arms.
 
+
++++More info
+
+https://www.rethinkrobotics.com/baxter/
+
+http://sdk.rethinkrobotics.com/wiki/Hardware_Specifications
+
